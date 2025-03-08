@@ -1,21 +1,22 @@
 public class MyClass {
     
 // main = executável
-public static void main(String[] args) {
+public static void main(String [] args) {
+    String primeiroNome = "Matheus";
+    String segundoNome = "Luiz Rocha";
 
-    //variável java:
-    //Tipo NomeBemDefinido = Atribuição (Opcional em alguns casos)
-    String meuNome = "Matheus";
+    String nomeCompleto = nomeCompleto(primeiroNome, segundoNome);
 
-    int anoFabricacao = 2022;
+    System.out.println(nomeCompleto);
+}
 
-    boolean verdadeira = true;
+//médodos:
+//TipoRetorno NomeObjetivoNoInfinitivo Parametro(s)
 
-
-    //Muda o valor da variável, mas continua sendo a mesma variável.
-    anoFabricacao = 2019;
-
+public static String nomeCompleto (String primeiroNome, String segundoNome){
+    return "Resultado do método: " + primeiroNome.concat(" ").concat(segundoNome);
 }
 
 }
+
 
