@@ -17,7 +17,7 @@ public class metodos {
         return somar(3,8);
     }
 
-    private void metodoPrivado(){}
+    
 
 }
 

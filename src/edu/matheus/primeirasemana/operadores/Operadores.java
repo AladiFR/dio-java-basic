@@ -38,9 +38,10 @@ public class Operadores {
         variavel = !variavel;//fica falso
 
         //Operador ternário, true ou false:], sendo útil para string ou inteiro:
-        int a, b;
+        /*int a, b;
         a = 5;
         b = 6;
+        */
 
         /*String resultado = a == b ?"verdadeiro" : "falso";
         int resultado = a == b ? 1 : 0;

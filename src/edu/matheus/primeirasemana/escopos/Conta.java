@@ -3,11 +3,13 @@ package edu.matheus.primeirasemana.escopos;
 public class Conta {
      
     //variavel da classe conta
+    double valor = 0;
     double saldo = 10.0;
+    double novoSaldo = saldo - valor;
 
     public void sacar (Double valor){
         //variavel local de método
-        double novoSaldo = saldo - valor;
+        //double novoSaldo = saldo - valor;
     }
     public void imprimirSaldo(){
         //disponível em toda classe

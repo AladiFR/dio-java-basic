@@ -1,9 +1,10 @@
 package edu.matheus.primeirasemana.tiposvariaveis;
 
+/* 
 public class TiposVariaveis {
     public static void main(String[] args) {
-    // 8 tipos primitivos: int, byte, short, long, float, double, boolean e char. 
-    // esses tipos não sao considerados objetos, porém, são valores brutos.
+     8 tipos primitivos: int, byte, short, long, float, double, boolean e char. 
+        esses tipos não sao considerados objetos, porém, são valores brutos.
 
     int idade = 23;
     int anoFabricacao = 2022;
@@ -19,3 +20,4 @@ public class TiposVariaveis {
         
     }
 }
+*/
