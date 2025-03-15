@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SistemaMedida",
+            "request": "launch",
+            "mainClass": "edu.matheus.segundasemana.tiposcondicionais.SistemaMedida",
+            "projectName": "java-anatomia-classes_8537b0cb"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscolar",
+            "request": "launch",
+            "mainClass": "edu.matheus.segundasemana.tiposcondicionais.ResultadoEscolar",
+            "projectName": "java-anatomia-classes_8537b0cb"
+        },
+        {
+            "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "edu.matheus.segundasemana.tiposcondicionais.CaixaEletronico",
+            "projectName": "java-anatomia-classes_8537b0cb"
+        },
+        {
+            "type": "java",
             "name": "AboutMe",
             "request": "launch",
             "mainClass": "edu.matheus.primeirasemana.terminalArgumentos.AboutMe",
