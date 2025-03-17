@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploDoWhile",
+            "request": "launch",
+            "mainClass": "edu.matheus.segundasemana.tiposrepeticao.ExemploDoWhile",
+            "projectName": "java-anatomia-classes_8537b0cb"
+        },
+        {
+            "type": "java",
+            "name": "ExemploWhile",
+            "request": "launch",
+            "mainClass": "edu.matheus.segundasemana.tiposrepeticao.ExemploWhile",
+            "projectName": "java-anatomia-classes_8537b0cb"
+        },
+        {
+            "type": "java",
+            "name": "ExemploBreakContinue",
+            "request": "launch",
+            "mainClass": "edu.matheus.segundasemana.tiposrepeticao.ExemploBreakContinue",
+            "projectName": "java-anatomia-classes_8537b0cb"
+        },
+        {
+            "type": "java",
+            "name": "ExemploForArray",
+            "request": "launch",
+            "mainClass": "edu.matheus.segundasemana.tiposrepeticao.ExemploForArray",
+            "projectName": "java-anatomia-classes_8537b0cb"
+        },
+        {
+            "type": "java",
+            "name": "ExemploFor",
+            "request": "launch",
+            "mainClass": "edu.matheus.segundasemana.tiposrepeticao.ExemploFor",
+            "projectName": "java-anatomia-classes_8537b0cb"
+        },
+        {
+            "type": "java",
             "name": "SistemaMedida",
             "request": "launch",
             "mainClass": "edu.matheus.segundasemana.tiposcondicionais.SistemaMedida",
