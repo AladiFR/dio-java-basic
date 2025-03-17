@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SobreMim",
+            "request": "launch",
+            "mainClass": "edu.matheus.segundasemana.tiposexcepcionais.SobreMim",
+            "projectName": "java-anatomia-classes_8537b0cb"
+        },
+        {
+            "type": "java",
             "name": "ExemploDoWhile",
             "request": "launch",
             "mainClass": "edu.matheus.segundasemana.tiposrepeticao.ExemploDoWhile",
