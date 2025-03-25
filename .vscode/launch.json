@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ProcessoSeletivo",
+            "request": "launch",
+            "mainClass": "edu.matheus.terceirasemana.candidatura.ProcessoSeletivo",
+            "projectName": "dio-java-basic_680d779a"
+        },
+        {
+            "type": "java",
             "name": "SobreMim",
             "request": "launch",
             "mainClass": "edu.matheus.segundasemana.tiposexcepcionais.SobreMim",
